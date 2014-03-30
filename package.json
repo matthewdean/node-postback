@@ -1,0 +1,20 @@
+{
+  "name": "postback",
+	"version": "0.1.0",
+	"author": "Matthew Dean",
+	"description": "Perform ASP.NET postbacks without a browser",
+  "main": "./main.js",
+	"repository": {
+	  "type": "git",
+		"url": "https://github.com/matthewdean/node-postback.git"
+	},
+	"keywords": [
+		"postback",
+		"asp.net"
+	],
+	"dependencies": {
+		"request": "*",
+		"cheerio": "*"
+	},
+	"license": "MIT"
+}
